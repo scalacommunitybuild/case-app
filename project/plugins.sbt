@@ -9,4 +9,4 @@ addSbtPlugin("org.tpolecat" % "tut-plugin" % "0.4.7")
 addSbtPlugin("org.scala-js" % "sbt-scalajs" % "0.6.13")
 addSbtPlugin("com.dwijnand" % "sbt-travisci" % "1.0.0-M4")
 
-addSbtPlugin("io.get-coursier" % "sbt-coursier" % "1.0.0-M15-1")
+addSbtPlugin("io.get-coursier" % "sbt-coursier" % "1.0.0-RC13")
